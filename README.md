@@ -1,16 +1,14 @@
 # marvel_comics_app
 
-A new Flutter project.
+Hi, hello and welcome
 
-## Getting Started
+#This is an app that displays Marvel Comics from Marvel API
 
-This project is a starting point for a Flutter application.
+#You can search for comics by its title(remember to type hero name correctly: ant-man not antman, spider-man etc.)
 
-A few resources to get you started if this is your first Flutter project:
+#Tap on comics cover to see its descriptions, writer and link to website with more details
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+ENJOY!
+
